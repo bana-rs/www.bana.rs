@@ -1,0 +1,11 @@
+[package]
+name = "www-bana-rs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Mohamed Bana <mohamed@bana.io>"]
+homepage = "https://bana.rs"
+repository = "https://github.com/bana-rs/www.bana.rs"
+# exclude = ["/.git/*", "/.github/*", "/.gitignore", "/.vscode/*"]
+
+[dependencies]
